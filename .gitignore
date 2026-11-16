@@ -1,0 +1,26 @@
+# Data files (too large)
+*.csv
+*.parquet
+
+# Model files (optional - uncomment to exclude)
+# *.pkl
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+venv/
+env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/secrets.toml
